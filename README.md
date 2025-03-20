@@ -1,11 +1,4 @@
 # Test
-There is task of working with GIT 
+There is the main file
 
-
-
-Ooooooo, that's some changes!!!
-changes
-changes
-changes
-changes
 
